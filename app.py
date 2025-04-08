@@ -48,8 +48,9 @@ def charada_aleatoria():
 # ------------- LISTAR CHARADAS ----------------------
 @app.route('/charadas/lista', methods=['GET'])
 def charada_lista():
+    charadas = []
     lista = db.collection('charadas').stream()
-
+  
     for item in lista:
         charadas.append(item.to_dict())
 
