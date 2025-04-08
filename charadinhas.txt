@@ -1,0 +1,12 @@
+charadas = [
+    {'id': 1, 'pergunta': 'O que é, sem sair do seu cantinho, é capaz de viajar ao redor do mundo?', 'resposta': 'O selo.'},
+    {'id': 2, 'pergunta': 'O que o açaí disse para os filhos?', 'resposta': 'O último "açaí" fecha a porta.'},
+    {'id': 3, 'pergunta': 'Dez pássaros estão em cima de uma árvore. Um caçador atira e acerta um deles. Quantos pássaros restaram na árvore?', 'resposta': 'Nenhum. Depois dos tiros, todos os pássaros saíram voando.'},
+    {'id': 4, 'pergunta': 'O que é que tem quatro pernas de dia e seis pernas à noite?', 'resposta': 'A cama.'},
+    {'id': 5, 'pergunta': 'Por que a vassoura não luta caratê?', 'resposta': 'Porque ela já luta capoeira.'},
+    {'id': 6, 'pergunta': 'Qual palavra tem oito letras, mas se tira quatro, continua com oito?', 'resposta': 'Biscoito.'},
+    {'id': 7, 'pergunta': 'Qual é o nome do carro que avisa que vai chover?', 'resposta': 'O Celta preto.'},
+    {'id': 8, 'pergunta': 'O que é que anda com os pés na cabeça?', 'resposta': 'O piolho.'},
+    {'id': 9, 'pergunta': 'O que é que todo mês tem, menos abril?', 'resposta': 'A letra "o".'},
+    {'id': 10, 'pergunta': 'O que é que o nadador faz para bater o recorde?', 'resposta': 'Nada.'}
+]
