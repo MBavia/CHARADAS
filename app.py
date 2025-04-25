@@ -101,7 +101,7 @@ def adicionar_charada():
 
 
 #---------- MÉTODO PUT - ALTERAR CHARADA ------
-@app.route('/charadas', methods=['PUT'])
+@app.route('/charadas/<id>', methods=['PUT'])
 def alterar_charada(id):
     dados = request.json
 
